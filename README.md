@@ -1,5 +1,6 @@
-# Odin project - calculator
+# calculator
+Odin Project - Foundations section - Calculator
 
-Simple calculator made using HTML,CSS and JS.
+Objectives: Practise basic javascript
 
 Live preview: [Calculator website](https://priyanka-111-droid.github.io/calculator/)
